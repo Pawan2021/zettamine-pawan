@@ -1,0 +1,7 @@
+C:\Users\Pawan\Desktop\Terraform\Task 20-03-2023\secondarywebapp\publish\secondarywebapp.exe
+C:\Users\Pawan\Desktop\Terraform\Task 20-03-2023\secondarywebapp\publish\appsettings.Development.json
+C:\Users\Pawan\Desktop\Terraform\Task 20-03-2023\secondarywebapp\publish\appsettings.json
+C:\Users\Pawan\Desktop\Terraform\Task 20-03-2023\secondarywebapp\publish\secondarywebapp.dll
+C:\Users\Pawan\Desktop\Terraform\Task 20-03-2023\secondarywebapp\publish\secondarywebapp.deps.json
+C:\Users\Pawan\Desktop\Terraform\Task 20-03-2023\secondarywebapp\publish\secondarywebapp.runtimeconfig.json
+C:\Users\Pawan\Desktop\Terraform\Task 20-03-2023\secondarywebapp\publish\secondarywebapp.pdb
